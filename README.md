@@ -36,8 +36,8 @@ Step by step to explain how to build a continuous delivery system for github rep
 **Feb 27, 2015 - Matt Compton**
 
 ##### Security in Android
-- [Encrypting Strings in Android - Let's Make a Better Mistake](http://tozny.com/blog/encrypting-strings-in-android-lets-make-better-mistakes/)
-Basic of Encryption in Android.
+- [Encrypting Strings in Android - Let's Make a Better Mistake](http://tozny.com/blog/encrypting-strings-in-android-lets-make-better-mistakes/) <br>
+Basic of Encryption in Android. <br>
 
 #### Java
 - [The Most Common Java Keytool Keystore Commands](https://www.sslshopper.com/article-most-common-java-keytool-keystore-commands.html) <br>
