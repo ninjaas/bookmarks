@@ -35,6 +35,10 @@ Have you created a great (or at least useful) Java/Android open source project t
 Step by step to explain how to build a continuous delivery system for github repositories for android. <br>
 **Feb 27, 2015 - Matt Compton**
 
+##### Security in Android
+- [Encrypting Strings in Android - Let's Make a Better Mistake](http://tozny.com/blog/encrypting-strings-in-android-lets-make-better-mistakes/)
+Basic of Encryption in Android.
+
 #### Java
 - [The Most Common Java Keytool Keystore Commands](https://www.sslshopper.com/article-most-common-java-keytool-keystore-commands.html) <br>
 Step by step how to use java keytool <br>
